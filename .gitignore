@@ -1,0 +1,3 @@
+*.pth
+model.pth
+data/FashionMNIST/
